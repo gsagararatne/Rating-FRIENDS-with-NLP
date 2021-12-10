@@ -8,6 +8,8 @@ Predicting IMDb episode ratings by analysing the scripts of friends through NLP.
 ## Notebooks
 - GSagararatne - Rating Friends with NLP.ipynb
   - Capstone submitted version
+- DeepLearning_RatingFRIENDSWithNLP.ipynb
+  - Deep learning component of project
 
 ## Data
 - Summary dataset 1
